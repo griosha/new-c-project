@@ -1,6 +1,6 @@
 #include<stdio.h>
  
-int main()
+prim()
 {
    int n, i = 3, count, c;
  
